@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri May 27 16:10:23 CST 2016
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1464336623025
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact junit\:junit\:jar\:3.8.1 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1.jar
